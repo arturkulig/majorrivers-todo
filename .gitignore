@@ -17,6 +17,7 @@ out/
 # TypeScript compiled files
 *.js
 *.d.ts
+!*.config.js
 
 # IDE / editor folders
 .vscode/
