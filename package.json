@@ -1,0 +1,22 @@
+{
+  "name": "majorrivers-todo",
+  "version": "1.0.0",
+  "description": "A TODO app type example for majorrivers DOM rendering library",
+  "license": "ISC",
+  "author": "Artur Kulig",
+  "type": "module",
+  "main": "src/index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\"",
+    "build": "vite build"
+  },
+  "dependencies": {
+    "rxjs": "^7.8.2",
+    "todomvc-app-css": "^2.4.3",
+    "todomvc-common": "^1.0.5"
+  },
+  "devDependencies": {
+    "typescript": "^7.0.2",
+    "vite": "^8.3.8"
+  }
+}
